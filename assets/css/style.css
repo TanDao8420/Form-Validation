@@ -43,6 +43,10 @@
     margin-bottom: 16px;
     flex-direction: column;
   }
+  .form-group .gender-item {
+    display: flex;
+    justify-content: space-evenly;
+  }
   
   .form-label,
   .form-message {
